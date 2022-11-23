@@ -1,4 +1,4 @@
-[[Header](https://github.com/Sasha-Bu/Sasha-Bu/blob/main/assets/Sasha-Bu.png)]
+![Header](https://github.com/Sasha-Bu/Sasha-Bu/blob/main/assets/Sasha-Bu.png)
 
 About me
 
